@@ -1,0 +1,78 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Outfits</string>
+    <string name="day1">Day 1.</string>
+    <string name="day2">Day 2.</string>
+    <string name="day3">Day 3.</string>
+    <string name="day4">Day 4.</string>
+    <string name="day5">Day 5.</string>
+    <string name="day6">Day 6.</string>
+    <string name="day7">Day 7.</string>
+    <string name="day8">Day 8.</string>
+    <string name="day9">Day 9.</string>
+    <string name="day10">Day 10.</string>
+    <string name="day11">Day 11.</string>
+    <string name="day12">Day 12.</string>
+    <string name="day13">Day 13.</string>
+    <string name="day14">Day 14.</string>
+    <string name="day15">Day 15.</string>
+    <string name="day16">Day 16.</string>
+    <string name="day17">Day 17.</string>
+    <string name="day18">Day 18.</string>
+    <string name="day19">Day 19.</string>
+    <string name="day20">Day 20.</string>
+    <string name="day21">Day 21.</string>
+    <string name="day22">Day 22.</string>
+    <string name="day23">Day 23.</string>
+    <string name="day24">Day 24.</string>
+    <string name="day25">Day 25.</string>
+    <string name="day26">Day 26.</string>
+    <string name="day27">Day 27.</string>
+    <string name="day28">Day 28.</string>
+    <string name="day29">Day 29.</string>
+    <string name="day30">Day 30.</string>
+    <string name="outfit1">A breezy cream short-sleeve shirt pairs with relaxed black trousers for a laid-back, vintage vibe. Accessorized with a playful cream cap, a bold evil-eye bracelet, quirky rings, and deep red Adidas sneakers, this look balances casual comfort with statement accessories.</string>
+    <string name="outfit2">A cream graphic tee featuring retro runners is matched with tailored gray pleated shorts, burgundy Adidas sneakers, sleek sunglasses, and a minimalist black shoulder bag. Finished with iced coffee in hand, it’s an effortlessly cool city fit with a touch of sporty sophistication.</string>
+    <string name="outfit3">A playful white tee with a pomegranate graphic is paired with navy Adidas shorts, cream-and-red Asics sneakers, green oval sunglasses, and a blue plaid sling bag. Perfect for a sunny day that calls for both fun colors and athletic comfort.</string>
+    <string name="outfit4">A cream graphic tee with a tiger motif matches effortlessly with burgundy Adidas shorts and beige Birkenstock clogs. Leopard-print sunglasses add a hint of boldness, making this the ultimate casual summer street look.</string>
+    <string name="outfit5">An oversized green hoodie with bold yellow lettering is paired with green gingham shorts, a bright red cap, and blue Adidas sneakers. With eclectic accessories—aviator sunglasses, perfume, wine bottle—this outfit merges comfort with cheeky personality.</string>
+    <string name="outfit6">A bright blue floral-graphic tee teams with navy Adidas pinstripe shorts and cream Salomon sneakers. Yellow-tinted rectangular sunglasses finish the look, giving sporty and fresh vibes ideal for an active summer day.</string>
+    <string name="outfit7">A vintage white “The Smiths” band tee, navy Adidas shorts, and matching navy-and-cream Adidas sneakers make up this retro athletic fit. Paired with a navy cap, gold watch, and striped socks, it feels nostalgic yet sharp.</string>
+    <string name="outfit8">A white “The Velvet Underground” band tee meets loose blue striped pants, beige-and-blue Adidas sneakers, and a crisp white tote bag. Finished with silver and beaded bracelets, it’s a casual yet artsy combination perfect for bookstore runs and coffee dates.</string>
+    <string name="outfit9">A plain white tee is paired with loose blue striped pants and sleek black Dr. Martens shoes. Finished with a mustard-yellow cap, Carhartt crossbody bag, and striped socks, this look blends minimalism with subtle streetwear edge.</string>
+    <string name="outfit10">A bold patterned Patagonia fleece jacket with teal corduroy pants anchors this ocean-inspired look. Brown-and-white Adidas sneakers, a navy embroidered cap, chunky sunglasses, and playful accessories (watch, necklace, ceramic mug) create an eccentric yet cozy aesthetic.</string>
+    <string name="outfit11">A cozy red sweater with an idyllic rural scene pairs with green trousers, brown leather platform shoes, and a vintage corduroy cap. Finished with a classic leather-strap watch, tortoiseshell sunglasses, and a plaid wallet, this look channels autumn walks in the English countryside.</string>
+    <string name="outfit12">A navy, cream, and burgundy cardigan over wide cream pants with red illustrated motifs evokes nautical nostalgia. Accessories like the lobster pendant, red beanie, silver watch, and navy Adidas sneakers add a playful, maritime charm.</string>
+    <string name="outfit13">A bright yellow polo shirt printed with a dynamic polo match pairs with brown Adidas shorts, a burgundy beret, and matching sneakers. Vibrant accessories—multicolored sunglasses, leather watch, and a retro mug—give it an eccentric sports club flair.</string>
+    <string name="outfit14">A pale blue short-sleeve jacket with a winged lobster embroidery is styled with cream trousers, brown boat shoes, and a leather flat cap. Nautical accessories like the lobster keychain, Maine mug, and canvas tote complete the coastal dockside look</string>
+    <string name="outfit15">A Coca-Cola rugby shirt layered under a blue puffer vest with light wash jeans and white Nike sneakers screams vintage Americana. Finished with a beach cap, gold watch, crab patch, and matching Coca-Cola mug for that roadside diner vibe.</string>
+    <string name="outfit16">A green striped rugby shirt meets pink-and-white striped trousers, green loafers with citrus embroidery, and a Masters golf cap. Paired with green-and-white socks, silver watch, and oval sunglasses, this outfit blends country club elegance with playful preppy style.</string>
+    <string name="outfit17">A bold orange-patterned sweater layered over a cream-and-green polo teams with dark green striped pants and forest-green loafers. Striped socks, a gold watch, and vintage accessories keep it eccentric and vibrant.</string>
+    <string name="outfit18">A vintage iguana print tee paired with a beige check cardigan and brown corduroy trousers exudes quirky charm. Orange socks, white-and-brown sneakers, and a retro Florida cup complete this warm, nostalgic look.</string>
+    <string name="outfit19">An illustrated nature scene turtleneck under a cream jacket with brown corduroy collar is styled with light blue jeans and tan moccasins. Accessorized with a pumpkin patch cap, patterned socks, and a plaid scarf, it’s perfect for a cozy fall getaway.</string>
+    <string name="outfit20">A chunky green cardigan with black-and-white fish patterns pairs with loose pinstripe trousers, brown woven leather loafers, and bright red socks. A unique burlap fisherman’s hat, silver watch, and fishing-themed keychain complete this seaside-inspired look.</string>
+    <string name="outfit21">A white graphic tee with bold red car print, paired with forest-green trousers and chunky Salomon sneakers. Finished with a black tote bag, sports watch, and square sunglasses, this look blends motorsport energy with casual streetwear.</string>
+    <string name="outfit22">A light green short-sleeve shirt layered over a white tee, worn with black trousers and beige Salomon sneakers. The floral-pattern tote, bucket hat, and iced coffee give it a breezy countryside vibe perfect for warm afternoons.</string>
+    <string name="outfit23">A bright yellow polo paired with navy Adidas shorts and matching yellow-and-white sneakers. The tennis racket graphic and striped socks make this a preppy yet sporty fit.</string>
+    <string name="outfit24">A navy-and-cream striped long-sleeve tee paired with white trousers and brown leather shoes. Nautical accessories—canvas tote, navy cap, and boat-themed trinkets—make it feel like a seaside holiday snapshot.</string>
+    <string name="outfit25">A cream motel-graphic tee with faded blue jeans and brown Birkenstock clogs, topped with a yellow cap and silver watch. Casual, nostalgic, and perfect for road trip breakfasts.</string>
+    <string name="outfit26">A dark green hoodie with vintage diner print, loose black trousers, and red Adidas sneakers. Accessories like retro sunglasses, coffee cup, and leather wallet make it effortlessly casual.</string>
+    <string name="outfit27">A cream sweater with bold cherry-red stripes paired with beige wide trousers and white Adidas sneakers. Minimalist but striking, with accessories like silver watch and red mug for a cohesive palette.</string>
+    <string name="outfit28">A pale green short-sleeve tee tucked into navy shorts, with beige-and-cream sneakers. Paired with a crossbody bag, gold watch, and sunglasses, it’s a clean, fresh, everyday summer fit.</string>
+    <string name="outfit29">A green fishing-graphic tee paired with beige trousers and brown woven loafers. Finished with a fisherman’s hat, tote bag, and nautical trinkets for a coastal charm.</string>
+    <string name="outfit30">A cream graphic tee under a light gray button-up shirt, navy trousers, and green loafers. The book, tote, and coffee cup make it the ideal intellectual weekend look.</string>
+</resources>
